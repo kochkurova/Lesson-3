@@ -2,6 +2,6 @@ import org.junit.jupiter.api.Test;
 public class HWLesson3 {
     @Test
     void homework(){
-        System.out.println("это текст версии 365165112.0");
+        System.out.println("это текст версии сливаю ветку");
     }
 }
